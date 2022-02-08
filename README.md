@@ -18,7 +18,7 @@ A small turn-based combat game where you fight three enemies.
 
 ## Installation
 
-All you need to do is clone it.
+All you need to do is clone it. The technology used includes node, inquirer, and jest.
 <a name="usage"></a>
 
 ## Usage
